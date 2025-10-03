@@ -1,1 +1,1 @@
-# Funny-String-algo
+# Funny-String-algo The function checks if the absolute differences between adjacent characters are the same forward and backward. If all differences match, it returns "Funny"; otherwise, "Not Funny".
